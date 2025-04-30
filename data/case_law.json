@@ -1,0 +1,35 @@
+{
+    "cases": [
+      {
+        "title": "Donoghue v Stevenson",
+        "year": "1932",
+        "court": "House of Lords (UK)",
+        "content": "This landmark case established the modern concept of negligence, laying the foundations of the duty of care principle. Lord Atkin formulated the 'neighbour principle', stating that one must take reasonable care to avoid acts or omissions which can foreseeably injure their neighbor."
+      },
+      {
+        "title": "Carlill v Carbolic Smoke Ball Co",
+        "year": "1893",
+        "court": "Court of Appeal (UK)",
+        "content": "This case established key principles of contract law regarding unilateral offers and acceptance. The court held that a company’s advertisement constituted a legally binding offer to the world which could be accepted by anyone who performed the conditions stated."
+      },
+      {
+        "title": "Palsgraf v. Long Island Railroad Co.",
+        "year": "1928",
+        "court": "Court of Appeals of New York",
+        "content": "A foundational case on proximate cause in tort law. The court held that a defendant owes a duty of care only to those who are foreseeably at risk as a result of their actions."
+      },
+      {
+        "title": "Marbury v. Madison",
+        "year": "1803",
+        "court": "U.S. Supreme Court",
+        "content": "This case established the principle of judicial review, empowering American courts to strike down laws and statutes that violate the Constitution."
+      },
+      {
+        "title": "Roe v. Wade",
+        "year": "1973",
+        "court": "U.S. Supreme Court",
+        "content": "A landmark decision that recognized a woman's constitutional right to privacy extended to her decision to have an abortion, setting a legal precedent for reproductive rights in the United States."
+      }
+    ]
+  }
+  
